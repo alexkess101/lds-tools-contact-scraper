@@ -1,3 +1,9 @@
+# Activate venv
+# source *dirName*/bin/activate
+#
+# Deactivate venv
+# deactivate
+
 from selenium import webdriver
 from time import sleep
 from credentials import *
